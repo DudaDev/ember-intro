@@ -22,7 +22,7 @@ Notes for slide 1A
 #Slide 1B
 
 Note:
-Notes for slide 1A
+Notes for slide 1B
 
 ---
 
@@ -43,6 +43,6 @@ Notes for slide 2A
 #Slide 2B
 
 Note:
-Notes for slide 2A
+Notes for slide 2B
 
 ---
